@@ -7,4 +7,4 @@ COPY . /srv/hugo
 
 WORKDIR /srv/hugo
 
-CMD hugo server -D --bind 0.0.0.0
+CMD hugo server -D --bind 0.0.0.0 --baseURL "http://45.55.46.117"

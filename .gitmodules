@@ -1,0 +1,6 @@
+[submodule "emoji-analytics/themes/hugo-theme-terminal"]
+	path = emoji-analytics/themes/hugo-theme-terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "emoji-analytics/themes/terminal"]
+	path = emoji-analytics/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
