@@ -10,7 +10,7 @@ readingTime = false
 # The Cowboys Family 🤠
 
 ## Selected Famed Members
-![Cool Cowboy](https://emoji.slack-edge.com/T03M7E63A/navacadoinspace/70fa398320d15765.pn://emoji.slack-edge.com/T03M7E63A/cool_cowboy/84408967ea52650d.png)
+![Cool Cowboy](https://emoji.slack-edge.com/T03M7E63A/cool_cowboy/84408967ea52650d.png)
 ![Urchin Cowboy](https://emoji.slack-edge.com/T03M7E63A/cowboy-urchin/d9d5f577c4c6cc7a.png)
 ![Meow Cowboy](https://emoji.slack-edge.com/T03M7E63A/meow_cowboy/aff0a1bf78eecc3f.png)
 ![Baby Cowboy](https://emoji.slack-edge.com/T03M7E63A/baby-cowboy/752862ca0beefc96.png)
