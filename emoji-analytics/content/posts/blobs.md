@@ -1,7 +1,7 @@
 +++
 title = "Blobs"
 description = "Learn more about the Blobs!"
-date = "2022-02-16T15:07:13-05:00"
+date = "2022-02-14T15:07:13-05:00"
 author = "Kat"
 showFullContent = false
 readingTime = false

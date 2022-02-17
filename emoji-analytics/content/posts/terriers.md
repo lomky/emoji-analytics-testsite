@@ -1,7 +1,7 @@
 +++
 title = "Terriers"
 description = "Learn more about the Terriers!"
-date = "2022-02-16T15:07:13-05:00"
+date = "2022-02-15T15:07:13-05:00"
 author = "Kat"
 showFullContent = false
 readingTime = false
